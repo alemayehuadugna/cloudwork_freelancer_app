@@ -1,4 +1,4 @@
-# cloudwork_flreelancer_app
+# cloudwork_freelancer_app
 
 A new Flutter project.
 
