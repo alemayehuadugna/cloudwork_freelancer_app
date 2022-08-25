@@ -1,0 +1,10 @@
+export 'add_area_of_work_page.dart';
+export 'add_basic_profile_page.dart';
+export 'add_bio_page.dart';
+export 'add_education_page.dart';
+export 'add_experience_page.dart';
+export 'add_expertise_page.dart';
+export 'add_language_page.dart';
+export 'add_skills_page.dart';
+export 'create_profile_start_page.dart';
+export 'create_profile_wrapper_page.dart';

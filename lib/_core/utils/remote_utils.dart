@@ -1,0 +1,1 @@
+dynamic getData(dynamic result) => result['results'];
